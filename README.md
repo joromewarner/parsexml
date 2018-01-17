@@ -13,3 +13,4 @@ config:
   subject: "Email Subject"
 
 Then replace everything in quotes with real information.
+# getstatuscodes
